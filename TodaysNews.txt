@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Latest News</title>
+</head>
+<body>
+
+<h1>Today’s Latest News</h1>
+
+<h2>Technology</h2>
+<p>AI is becoming more popular in daily life.</p>
+
+<h2>Education</h2>
+<p>Online learning platforms are growing rapidly.</p>
+
+</body>
+</html>
